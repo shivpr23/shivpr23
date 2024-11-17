@@ -12,7 +12,7 @@ I'm a curious and continuous learner with a deep interest in competitive program
 ## 🛠️ Tech Stack
 - **Languages:** C/C++ 💻, Python 🐍, JavaScript 🌐
 - **Web Development:** React ⚛️, HTML 🖥️, CSS 🎨, Tailwind 🚀, Node.js 🌟, Express.js 🏗️, Docker 🐳
-- **Clouds & Databases:** AWS ☁️, MongoDB 📊
+- **Clouds & Databases:** MongoDB 📊
 - **Developer Tools:** Visual Studio Code 🖋️, ThunderClient 📬, GitHub 🐙, PyCharm 🐍
 
 ## 🤝 Let's Connect!
